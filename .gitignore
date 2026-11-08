@@ -1,0 +1,13 @@
+# Dependencies & Build outputs
+node_modules/
+frontend/dist/
+backend/target/
+.mvn/timing.properties
+
+# Environment & IDE files
+.env
+.DS_Store
+.idea/
+.vscode/
+*.iml
+*.log
